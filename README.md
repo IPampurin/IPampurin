@@ -5,4 +5,5 @@
 
 - 🔭 I’m a beginner Go-developer.
 - 🌱 My first education was as an electromechanic engineer, but programming has taken over my life...
+- 🧑‍💻 My programming language **Golang**
 
