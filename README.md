@@ -1,4 +1,4 @@
-## Hi there 👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Ivan</h1>
+## 👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Ilya</h1>
 
 <!--
 **IPampurin/IPampurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
