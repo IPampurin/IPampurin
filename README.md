@@ -28,7 +28,7 @@
 
 I like the right code because the right code gives a consistent result.
 
-My first education was as an electromechanic engineer, but programming has taken over my life...
-And I’m currently a beginner **Go-developer**
-I also like to walk in the woods or ride a bike.
+<My first education was as an electromechanic engineer, but programming has taken over my life.../>
+<And I’m currently a beginner **Go-developer**./>
+<I also like to walk in the woods or ride a bike.>
 
