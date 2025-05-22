@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&text=Input%20text" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=50ba4e&text=Hi%20there! 𝙸'𝚖 Ilya&fontAlign=60&animation=fadeIn&reversal=false&fontColor=595959&fontSize=40&descAlignY=50&section=header&fontAlignY=38" />
 
 ---
 
@@ -13,35 +13,22 @@
   <img src="https://img.shields.io/badge/Tilda-000000?style=for-the-badge&logo=tilda&logoColor=white"/>
 </p>
 
----
-
-## About Me
-
-I love programming for its logic and ability to bring ideas to life.
-
-Currently learning Django, FastAPI, databases, and automation.
 
 ---
 
 ## Stack & Skills
 
-- Python • Django • DRF • FastAPI
-- PostgreSQL • SQLite • Docker • Git • CI/CD
-- Pytest • Unittest • Postman
-- HTML/CSS • Figma • Tilda • CorelDRAW
-- API-first architecture and containerized apps
-
+- Backend • Go • Golang
+- Unittest • RestApi 
+- SQL • HTTP • Postman
+- Docker •  CI/CD • 
+- Git • Linux
+ 
 ---
 
-## Design & Visuals
+## About Me
 
-Design portfolio:  
-[behance.net/netkann](https://www.behance.net/netkann)
+I like the right code because the right code gives a consistent result.
+My first education was as an electromechanic engineer, but programming has taken over my life...
+I also like to walk in the woods or ride a bike.
 
----
-
-## Contacts
-- Telegram: @netkann
-- ✉️ ksipsi@gmail.com  
-- 📍 Krasnoyarsk (remote/flexible)  
-- 🛠 Open for collaboration
