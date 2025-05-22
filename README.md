@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge"/>
 </p>
 
-
 ---
 
 ## Stack & Skills
