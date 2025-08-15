@@ -17,43 +17,37 @@
 
 ## Stack & Skills
 
-<table style="
-    width: 100%; 
-    border: 0; 
-    border-collapse: collapse; 
-    border-spacing: 0;
+<div style="
+    display: flex; 
+    justify-content: space-between; 
+    align-items: flex-start;
+    width: 100%;
     background-color: white;
-    margin: 0;
-    padding: 0;
 ">
-    <tr>
-        <td style="
-            width: 70%; 
-            vertical-align: top; 
-            padding: 0; 
-            border: 0;
-            background-color: white;
-        ">
-            <ul style="margin: 0; padding: 0 20px;">
+    <div style="
+        width: 70%;
+        padding: 0 20px;
+        background-color: white;
+    ">
+        <ul style="margin: 0; padding: 0;">
                 <li>Go • Golang • Backend • Linux</li>
                 <li>HTTP • RestApi • Api • Postman</li>
                 <li>Unittest • testify • JWT • JSON/YAML</li>
                 <li>SQL • MySQL • SQLite</li>
                 <li>Docker • Docker Compose • Docker Hub</li>
                 <li>Git • GitHub • GitHub Actions • CI/CD</li>
-            </ul>
-        </td>
-        <td style="
-            width: 30%; 
-            text-align: center; 
-            padding: 0; 
-            border: 0;
-            background-color: white;
-        ">
-            <img src="img/GopherRead.png" alt="Гофер" width="200" height="200">
-        </td>
-    </tr>
-</table>
+     </ul>
+    </div>
+    <div style="
+        width: 30%; 
+        display: flex; 
+        justify-content: center; 
+        align-items: center;
+        background-color: white;
+    ">
+        <img src="img/GopherRead.png" alt="Гофер" width="200" height="200">
+    </div>
+</div>
 
 ---
 
