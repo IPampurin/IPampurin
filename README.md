@@ -17,18 +17,20 @@
 
 ## Stack & Skills
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
- <div>
- - Go • Golang • Backend • Linux 
- - HTTP • RestApi • Api • Postman 
- - Unittest • testify • JWT • JSON/YAML 
- - SQL • MySQL • SQLite • 
- - Docker • Docker Compose • Docker Hub 
- - Git • GitHub • GitHub Actions • CI/CD 
- </div>
- <div>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Go_logo_2015.svg/1200px-Go_logo_2015.svg.png" width="80" height="80">
- </div>
+<div style="position: relative;">
+  <ul style="display: inline-block;">
+    <li>Go • Golang • Backend • Linux</li>
+    <li>HTTP • RestApi • Api • Postman</li>
+    <li>Unittest • testify • JWT • JSON/YAML</li>
+    <li>SQL • MySQL • SQLite</li>
+    <li>Docker • Docker Compose • Docker Hub</li>
+    <li>Git • GitHub • GitHub Actions • CI/CD</li>
+  </ul>
+  
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Go_logo_2015.svg/1200px-Go_logo_2015.svg.png" 
+    style="position: absolute; top: 0; right: 0; width: 80px; height: auto;"
+  >
 </div>
 
 ---
