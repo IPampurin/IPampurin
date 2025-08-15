@@ -29,7 +29,7 @@
     </ul>
   </div>
   <div style="width: 25%; display: flex; justify-content: center; align-items: center;">
-    <img src="img/GopherRead.png" alt="Гофер" width="80" height="80">
+    <img src="img/GopherRead.png" alt="Гофер" width="180" height="180">
   </div>
 </div>
 
