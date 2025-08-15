@@ -4,9 +4,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1-00ADD8?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+ 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge"/>
@@ -16,19 +19,18 @@
 
 ## Stack & Skills
 
-- Backend • Go • Golang
-- Unittest • RestApi 
-- SQL • HTTP • Postman
-- Docker •  CI/CD • 
-- Git • Linux
- 
+- Go • Golang • Backend • Linux 
+- HTTP • RestApi • Api • Postman 
+- Unittest • testify • JWT • JSON/YAML 
+- SQL • MySQL • SQLite • 
+- Docker • Docker Compose • Docker Hub 
+- Git • GitHub • GitHub Actions • CI/CD 
+
 ---
 
 ## About Me
 
-I like the right code because the right code gives a consistent result.
+Мне нравится правильный код, потому что правильный код дает правильный результат.
 
-My first education was as an electromechanic engineer, but programming has taken over my life...  
-And I’m currently a beginner **Go-developer**.  
-I also like to walk in the woods or ride a bike.  
+  
 
