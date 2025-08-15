@@ -17,12 +17,12 @@
 
 ## Stack & Skills
 
-  • Go • Golang • Backend • Linux
-  • HTTP • RestApi • Api • Postman
-  • Unittest • testify • JWT • JSON/YAML
-  • SQL • MySQL • SQLite
-  • Docker • Docker Compose • Docker Hub
-  • Git • GitHub • GitHub Actions • CI/CD
+  • Go • Golang • Backend • Linux 
+  • HTTP • RestApi • Api • Postman 
+  • Unittest • testify • JWT • JSON/YAML 
+  • SQL • MySQL • SQLite 
+  • Docker • Docker Compose • Docker Hub 
+  • Git • GitHub • GitHub Actions • CI/CD 
 
 <img src="img/GopherRead.png" alt="Гофер" width="200" height="200">
 
