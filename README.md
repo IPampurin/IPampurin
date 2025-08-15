@@ -17,7 +17,7 @@
 
 ## Stack & Skills
 
-<table style="width:100%; border: collapse;">
+<table style="width:100%; border: none; border-collapse: collapse;">
   <tr>
     <td style="width:70%; vertical-align: top;">
       <ul>
@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td style="width:30%; text-align: center;">
-      <img src="img/GopherRead.png" alt="Гофер" width="180" height="180">
+      <img src="img/GopherRead.png" alt="Гофер" width="200" height="200">
     </td>
   </tr>
 </table>
