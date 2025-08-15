@@ -1,16 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?
 type=waving
-&height=200
+&height=150
 &color=50ba4e
-&text=Здравствуйте,%0D%0A%20%20%20%20%20коллеги-разработчики!
-&fontAlign=50
+&text=Здравствуйте,%0D%0A%20%20коллеги-разработчики!
+&fontAlign=60
 &animation=fadeIn
 &reversal=false
 &fontColor=595959
-&fontSize=35
+&fontSize=40
 &descAlignY=50
 &section=header
-&fontAlignY=40" />
+&fontAlignY=38" />
 
 ---
 
