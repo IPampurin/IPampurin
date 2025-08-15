@@ -22,14 +22,13 @@
 - Unittest • testify • JWT • JSON/YAML 
 - SQL • MySQL • SQLite • 
 - Docker • Docker Compose • Docker Hub 
-- Git • GitHub • GitHub Actions • CI/CD  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Go_logo_2015.svg/1200px-Go_logo_2015.svg.png" width="40" height="40">
+- Git • GitHub • GitHub Actions • CI/CD    <img src="https://raw.githubusercontent.com/golang/foundation/master/design/golang-logo.svg" width="50" height="50">
 
 ---
 
 ## Обо мне
 
-На разных этапах жизни я автоматизировал расчёт тягового электродвигателя, работал с большими объёмами CSV данных и писал базу для сохранения результатов анализа этих данных, создавал с нуля сайт компании и вручную его тестировал.  
+На разных этапах жизни я автоматизировал расчёт тягового электродвигателя, работал с большими объёмами CSV данных и писал базу для сохранения результатов анализа этих данных, создавал с нуля сайт компании и вручную его тестировал...  
 
 Всё это заставило меня переосмыслить свое увлечение программированием и принять решение заниматься этим профессионально.  
 
