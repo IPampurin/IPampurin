@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?
-type=waving
+<img src="https://capsule-render.vercel.app/api?type=waving
 &height=150
 &color=50ba4e
 &text=Здравствуйте,%0D%0A%20%20коллеги-разработчики!
