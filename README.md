@@ -17,10 +17,10 @@
 
 ## Stack & Skills
 
-<table style="width:100%; border: none; border-collapse: collapse;">
+<table style="width:100%; border: 0; border-collapse: collapse; border-spacing: 0;">
   <tr>
-    <td style="width:70%; vertical-align: top;">
-      <ul>
+    <td style="width:70%; vertical-align: top; padding: 0; border: 0;">
+      <ul style="margin: 0; padding: 0 20px;">
         <li>Go • Golang • Backend • Linux</li>
         <li>HTTP • RestApi • Api • Postman</li>
         <li>Unittest • testify • JWT • JSON/YAML</li>
@@ -29,7 +29,7 @@
         <li>Git • GitHub • GitHub Actions • CI/CD</li>
       </ul>
     </td>
-    <td style="width:30%; text-align: center;">
+    <td style="width:30%; text-align: center; padding: 0; border: 0;">
       <img src="img/GopherRead.png" alt="Гофер" width="200" height="200">
     </td>
   </tr>
