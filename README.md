@@ -17,15 +17,19 @@
 
 ## Stack & Skills
 
-- Go • Golang • Backend • Linux 
-- HTTP • RestApi • Api • Postman 
-- Unittest • testify • JWT • JSON/YAML 
-- SQL • MySQL • SQLite • 
-- Docker • Docker Compose • Docker Hub 
-- Git • GitHub • GitHub Actions • CI/CD  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/golang/foundation/master/design/golang-logo.svg" width="50" height="50">
-</p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    - Go • Golang • Backend • Linux 
+    - HTTP • RestApi • Api • Postman 
+    - Unittest • testify • JWT • JSON/YAML 
+    - SQL • MySQL • SQLite • 
+    - Docker • Docker Compose • Docker Hub 
+    - Git • GitHub • GitHub Actions • CI/CD  
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/golang/foundation/master/design/golang-logo.svg" width="80" height="80">
+  </div>
+</div>
 
 ---
 
