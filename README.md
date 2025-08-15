@@ -17,20 +17,23 @@
 
 ## Stack & Skills
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="width: 70%;">
-    <ul>
-      <li>Go • Golang • Backend • Linux</li>
-      <li>HTTP • RestApi • Api • Postman</li>
-      <li>Unittest • testify • JWT • JSON/YAML</li>
-      <li>SQL • MySQL • SQLite</li>
-      <li>Docker • Docker Compose • Docker Hub</li>
-      <li>Git • GitHub • GitHub Actions • CI/CD</li>
-    </ul>
-  </div>
-  <div style="width: 25%; display: flex; justify-content: center; align-items: center;">
-    <img src="img/GopherRead.png" alt="Гофер" width="180" height="180">
-  </div>
+<div style="width: 100%;">
+    <div style="float: left; width: 70%;">
+        <ul>
+            <li>Go • Golang • Backend • Linux</li>
+            <li>HTTP • RestApi • Api • Postman</li>
+            <li>Unittest • testify • JWT • JSON/YAML</li>
+            <li>SQL • MySQL • SQLite</li>
+            <li>Docker • Docker Compose • Docker Hub</li>
+            <li>Git • GitHub • GitHub Actions • CI/CD</li>
+        </ul>
+    </div>
+    
+    <div style="float: right; width: 25%; text-align: center;">
+        <img src="img/GopherRead.png" alt="Гофер" width="80" height="80">
+    </div>
+    
+    <div style="clear: both;"></div>
 </div>
 
 ---
