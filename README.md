@@ -23,7 +23,7 @@
 - SQL • MySQL • SQLite • 
 - Docker • Docker Compose • Docker Hub 
 - Git • GitHub • GitHub Actions • CI/CD  
-<img src="https://raw.githubusercontent.com/golang/go/master/src/doc/logo/golang.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Go_logo_2015.svg/1200px-Go_logo_2015.svg.png" width="40" height="40">
 
 ---
 
