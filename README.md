@@ -17,7 +17,7 @@
 
 ## Stack & Skills
 
-<table style="width:100%; border: 0; border-collapse: collapse; border-spacing: 0;">
+<table style="width:100%; border: 0; border-collapse: collapse; border-spacing: 0; background-color: transparent;">
   <tr>
     <td style="width:70%; vertical-align: top; padding: 0; border: 0;">
       <ul style="margin: 0; padding: 0 20px;">
