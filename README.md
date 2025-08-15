@@ -22,7 +22,10 @@
 - Unittest • testify • JWT • JSON/YAML 
 - SQL • MySQL • SQLite • 
 - Docker • Docker Compose • Docker Hub 
-- Git • GitHub • GitHub Actions • CI/CD    <img src="https://raw.githubusercontent.com/golang/foundation/master/design/golang-logo.svg" width="50" height="50">
+- Git • GitHub • GitHub Actions • CI/CD  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/golang/foundation/master/design/golang-logo.svg" width="50" height="50">
+</p>
 
 ---
 
