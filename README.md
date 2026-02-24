@@ -24,7 +24,7 @@
   • HTTP • RestApi • Api • Postman  
   • Unittest • testify • JWT • JSON/YAML  
   • SQL • MySQL • SQLite • PostgreSQL  
-  • Kafka • Redis  
+  • Kafka • RabbitMQ • Redis  
   • Prometheus • Grafana • Jaeger  
   • Docker • Docker Compose • Docker Hub  
   • Git • GitHub • GitHub Actions • CI/CD  
