@@ -18,10 +18,8 @@
 
 ---
 
-</p>
-
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2IPampurin&label=Посещений&countColor=%23263759&labelStyle=none" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=IPampurin.IPampurin" />
 </p>
 
 ## Stack & Skills
