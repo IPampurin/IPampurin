@@ -18,6 +18,13 @@
 
 ---
 
+</p>
+
+<!-- Счётчик посещений профиля -->
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2IPampurin&label=Посещений&countColor=%23263759&labelStyle=none" />
+</p>
+
 ## Stack & Skills
 
   • Go • Golang • Backend • Linux  
