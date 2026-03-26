@@ -25,7 +25,7 @@
 ## Stack & Skills
 
   • Go • Golang • Backend • Linux  
-  • HTTP • RestApi • Api • Postman  
+  • HTTP • gRPC • RestApi • Api • Postman  
   • Unittest • testify • JWT • JSON/YAML  
   • SQL • MySQL • SQLite • PostgreSQL  
   • Kafka • RabbitMQ • Redis • S3 (MinIO)  
