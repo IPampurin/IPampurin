@@ -18,14 +18,14 @@
 
 ---
 
-
 ## Stack & Skills
 
   • Go • Golang • Backend • Linux  
   • HTTP • gRPC • RestApi • Api • Postman  
   • Unittest • testify • JWT • JSON/YAML  
   • SQL • MySQL • SQLite • PostgreSQL  
-  • Kafka • RabbitMQ • Redis • S3 (MinIO)  
+  • Kafka • RabbitMQ  
+  • Redis • S3 (MinIO)  
   • Prometheus • Grafana • Jaeger  
   • Docker • Docker Compose • Docker Hub  
   • Git • GitHub • GitHub Actions • CI/CD  
